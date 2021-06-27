@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = "ODM0OTExNzkzNDYxMDY3Nzk2.YIHyMw.u0B2HC7o2OkJGCnlbRI_AoJMxz0"
+TOKEN = "///////////"
 
 client = discord.Client()
 
